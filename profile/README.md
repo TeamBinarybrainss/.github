@@ -1,6 +1,6 @@
-![Developer Organization](https://i.ibb.co/XbJcRQz/Team-Binary-Brainss.png)
+![Developer Organization](https://i.postimg.cc/3rBYVJDD/Team-Binary-Brainss.png)
 
-# Welcome to Our Developer Organization 🚀
+# Welcome to the Team BinaryBrainss 🚀
 
 ### 🌟 Who We Are
 We are a diverse and driven collective of developers, innovators, and tech enthusiasts who have come together with a shared mission: to build cutting-edge solutions, push the boundaries of technology, and empower each other to grow as professionals and as individuals. Our organization thrives on the belief that collaboration and continuous learning are the cornerstones of success in the ever-evolving world of technology.
